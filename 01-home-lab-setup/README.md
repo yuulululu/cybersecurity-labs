@@ -10,7 +10,7 @@
 | โปรแกรม Virtualization | VirtualBox 7.2.22 |
 | เครื่องโจมตี (Attacker) | Kali Linux 2026.3 |
 | เครื่องเป้าหมาย (Target) | [Ubuntu Server / Metasploitable 2] |
-| รูปแบบเครือข่าย | Host-only Network [ช่วง IP เช่น 192.168.56.1/24] |
+| รูปแบบเครือข่าย | Host-only Network 192.168.56.1 |
 
 ## ผังเครือข่าย
 ```mermaid
