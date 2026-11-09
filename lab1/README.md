@@ -58,7 +58,7 @@ ping -c 4 [IP เครื่องเป้าหมาย]
 ```
 
 ## ผลลัพธ์
-![ping result](images/kali-ping-ms)
+![ping result](images/kali-ping-ms.png)
 
 - Kali ได้รับ IP `[192.168.56.101]`
 - เครื่องเป้าหมายได้รับ IP `[192.168.56.102]`
